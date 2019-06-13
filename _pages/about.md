@@ -9,5 +9,5 @@ redirect_from:
 ---
 
 Site Under Construction
-======
-Thank you for visiting, hopefully we'll be back up and running when you check back later!
+------
+Thank you for visiting, hopefully it'll be back up and running when you check back in!
