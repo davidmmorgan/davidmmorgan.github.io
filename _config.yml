@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "David M. Morgan"
-  avatar           : "Profile.png"
+  avatar           : "me.png"
   bio              : "Graduate student in the Weinreich Lab at Brown University"
   location         : "Providence, RI"
-  employer         :
+  employer         : "https://www.brown.edu/research/labs/weinreich/"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=David+M+Morgan"
   googlescholar    : "https://scholar.google.com/citations?user=9PpDTsMAAAAJ&hl=en"
   email            : "mailto:david_morgan@brown.edu"
