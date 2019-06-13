@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : 'dark'
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -88,7 +88,8 @@ author:
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=David+M+Morgan"
   googlescholar    : "https://scholar.google.com/citations?user=9PpDTsMAAAAJ&hl=en"
   email            : "mailto:david_morgan@brown.edu"
-  researchgate     : "https://www.brown.edu/research/labs/weinreich/"
+  website          : "https://www.brown.edu/research/labs/weinreich/"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
