@@ -13,7 +13,7 @@ As of 2018 I'm a graduate student at Brown University in the [Weinreich Lab](htt
 
 My committee: [Dan Weinreich](https://vivo.brown.edu/display/dweinrei), [David Rand](https://vivo.brown.edu/display/drand), [Brandon Ogbunu](https://vivo.brown.edu/display/cogbunug), [Peter Belenky](https://vivo.brown.edu/display/pbelenky), and [Lorin Crawford](https://vivo.brown.edu/display/lcrawfo1)
 
-I'm interested in molecular evolution, promiscuity, novelty, astrobiology, and the search for excellent tiramisu.
+I'm interested in molecular evolution, epistasis, promiscuity, novelty, astrobiology, and the search for excellent tiramisu.
 
 
 Previously I was at Massachusetts General Hospital in the Gastrointestinal Unit working on llinks between the gut microbiome and irritable bowel disease.
