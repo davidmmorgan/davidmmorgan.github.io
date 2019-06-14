@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "David M. Morgan"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-About Me
-======
 As of 2018 I'm a graduate student at Brown University in the [Weinreich Lab](https://www.brown.edu/research/labs/weinreich/) where I research molecular evolution and epistasis. Right now I'm do that using beta-lactamases and deep mutational scanning. 
 
 Previously I was at Massachusetts General Hospital in the Gastrointestinal Unit working on the iterface between the gut microbiome and irritable bowel disease.
