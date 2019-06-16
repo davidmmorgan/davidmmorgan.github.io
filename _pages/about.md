@@ -16,7 +16,7 @@ My committee: [Dan Weinreich](https://vivo.brown.edu/display/dweinrei), [David R
 I'm interested in molecular evolution, epistasis, promiscuity, novelty, astrobiology, and the search for excellent tiramisu.
 
 
-Previously I was at Massachusetts General Hospital in the Gastrointestinal Unit working on llinks between the gut microbiome and irritable bowel disease.
+Previously I was at Massachusetts General Hospital in the Gastrointestinal Unit working on links between the gut microbiome and irritable bowel disease.
 
 I attended Worcester Polytechnic Institute for my B.S., where I had the pleasure of working in the [Shell Lab](https://labs.wpi.edu/shelllab/) on the [regulation of heat-shock proteins in mycobacteria](https://digitalcommons.wpi.edu/mqp-all/1610/). 
 
