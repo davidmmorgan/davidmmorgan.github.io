@@ -16,6 +16,9 @@ I'm interested in molecular evolution, epistasis, promiscuity, novelty, astrobio
 My excellent committee: [Dan Weinreich](https://vivo.brown.edu/display/dweinrei), [David Rand](https://vivo.brown.edu/display/drand), [Brandon Ogbunu](https://vivo.brown.edu/display/cogbunug), [Peter Belenky](https://vivo.brown.edu/display/pbelenky), and [Lorin Crawford](https://vivo.brown.edu/display/lcrawfo1)
 
 
+When I'm not in the lab I enjoy backpacking, reading science fiction and fantasy, brewing beer, and spending time with my dog Gigi. 
+
+
 ![biologists](/images/biologists.png)
 > Credit: [SMBC](http://www.smbc-comics.com/comic/biology-2)
 
@@ -28,4 +31,3 @@ Previously I was at Massachusetts General Hospital in the Gastrointestinal Unit 
 I attended Worcester Polytechnic Institute for my B.S., where I had the pleasure of working in the [Shell Lab](https://labs.wpi.edu/shelllab/) on the [regulation of heat-shock proteins in mycobacteria](https://digitalcommons.wpi.edu/mqp-all/1610/). 
 
 
-When I'm not in the lab I enjoy backpacking, reading science fiction and fantasy, brewing beer, and spending time with my dog Gigi. 
