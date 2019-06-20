@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a graduate student at Brown University in the [Weinreich Lab](https://www.brown.edu/research/labs/weinreich/) as of 2018, where I research molecular evolution and epistasis. Right now I'm doing that using beta-lactamases and deep mutational scanning as part of the [Genotypes to Phenotypes group](https://ddg2phenome.org/).
+I'm a graduate student at Brown University in the [Weinreich Lab](https://www.brown.edu/research/labs/weinreich/) where I study molecular evolution and epistasis. Right now I'm doing that using beta-lactamases and deep mutational scanning as part of the [Genotypes to Phenotypes group](https://ddg2phenome.org/).
 
 
 I'm interested in molecular evolution, epistasis, promiscuity, novelty, astrobiology, and the search for excellent tiramisu.
