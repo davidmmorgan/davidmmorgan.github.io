@@ -10,10 +10,10 @@ redirect_from:
 I'm a graduate student at Brown University in the [Weinreich Lab](https://www.brown.edu/research/labs/weinreich/) where I study molecular evolution and epistasis. Right now I'm doing that using beta-lactamases and deep mutational scanning as part of the [Genotypes to Phenotypes group](https://ddg2phenome.org/).
 
 
-I'm interested in molecular evolution, epistasis, promiscuity, novelty, astrobiology, and the search for excellent tiramisu.
+My interests include: molecular evolution, epistasis, promiscuity, novelty, astrobiology, and the search for excellent tiramisu.
 
 
-My excellent committee: [Dan Weinreich](https://vivo.brown.edu/display/dweinrei), [David Rand](https://vivo.brown.edu/display/drand), [Brandon Ogbunu](https://vivo.brown.edu/display/cogbunug), [Peter Belenky](https://vivo.brown.edu/display/pbelenky), and [Lorin Crawford](https://vivo.brown.edu/display/lcrawfo1)
+My committee: [Dan Weinreich](https://vivo.brown.edu/display/dweinrei), [David Rand](https://vivo.brown.edu/display/drand), [Brandon Ogbunu](https://vivo.brown.edu/display/cogbunug), [Peter Belenky](https://vivo.brown.edu/display/pbelenky), and [Lorin Crawford](https://vivo.brown.edu/display/lcrawfo1)
 
 
 When I'm not in the lab I enjoy backpacking, reading science fiction and fantasy, brewing beer, and spending time with my dog Gigi. 
