@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 ![biologists](/images/biologists.png)
+
 Credit: [SMBC](http://www.smbc-comics.com/comic/biology-2)
 
 As of 2018 I'm a graduate student at Brown University in the [Weinreich Lab](https://www.brown.edu/research/labs/weinreich/) where I research molecular evolution and epistasis. Right now I'm doing that using beta-lactamases and deep mutational scanning. 
