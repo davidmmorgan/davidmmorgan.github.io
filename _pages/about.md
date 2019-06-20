@@ -26,8 +26,9 @@ When I'm not in the lab I enjoy backpacking, reading science fiction and fantasy
 
 Old News
 -------
-Previously I was at Massachusetts General Hospital in the Gastrointestinal Unit working on links between the gut microbiome and irritable bowel disease.
+Previously I was at Massachusetts General Hospital in the Gastrointestinal Unit working on links between the gut microbiome and irritable bowel disease. I presented that research in Washington D.C. at the 2018 Digestive Disease Week conference.
 
 I attended Worcester Polytechnic Institute for my B.S., where I had the pleasure of working in the [Shell Lab](https://labs.wpi.edu/shelllab/) on the [regulation of heat-shock proteins in mycobacteria](https://digitalcommons.wpi.edu/mqp-all/1610/). 
 
+I was a part of [WPI's 2015 iGEM team](http://2015.igem.org/Team:WPI-Worcester) where we investigated the biofilm-affecting properties of antifreeze proteins.
 
