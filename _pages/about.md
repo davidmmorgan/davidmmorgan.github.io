@@ -7,10 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-As of 2018 I'm a graduate student at Brown University in the [Weinreich Lab](https://www.brown.edu/research/labs/weinreich/) where I research molecular evolution and epistasis. Right now I'm doing that using beta-lactamases and deep mutational scanning as part of the [Genotypes to Phenotypes group](https://ddg2phenome.org/).
+I'm a graduate student at Brown University in the [Weinreich Lab](https://www.brown.edu/research/labs/weinreich/) as of 2018, where I research molecular evolution and epistasis. Right now I'm doing that using beta-lactamases and deep mutational scanning as part of the [Genotypes to Phenotypes group](https://ddg2phenome.org/).
 
 
 I'm interested in molecular evolution, epistasis, promiscuity, novelty, astrobiology, and the search for excellent tiramisu.
+
+
+My excellent committee: [Dan Weinreich](https://vivo.brown.edu/display/dweinrei), [David Rand](https://vivo.brown.edu/display/drand), [Brandon Ogbunu](https://vivo.brown.edu/display/cogbunug), [Peter Belenky](https://vivo.brown.edu/display/pbelenky), and [Lorin Crawford](https://vivo.brown.edu/display/lcrawfo1)
 
 
 ![biologists](/images/biologists.png)
@@ -18,9 +21,8 @@ I'm interested in molecular evolution, epistasis, promiscuity, novelty, astrobio
 
 
 
-My excellent committee: [Dan Weinreich](https://vivo.brown.edu/display/dweinrei), [David Rand](https://vivo.brown.edu/display/drand), [Brandon Ogbunu](https://vivo.brown.edu/display/cogbunug), [Peter Belenky](https://vivo.brown.edu/display/pbelenky), and [Lorin Crawford](https://vivo.brown.edu/display/lcrawfo1)
-
-
+Old News
+-------
 Previously I was at Massachusetts General Hospital in the Gastrointestinal Unit working on links between the gut microbiome and irritable bowel disease.
 
 I attended Worcester Polytechnic Institute for my B.S., where I had the pleasure of working in the [Shell Lab](https://labs.wpi.edu/shelllab/) on the [regulation of heat-shock proteins in mycobacteria](https://digitalcommons.wpi.edu/mqp-all/1610/). 
