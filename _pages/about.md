@@ -14,8 +14,8 @@ I'm interested in molecular evolution, epistasis, promiscuity, novelty, astrobio
 
 
 ![biologists](/images/biologists.png)
-
 > Credit: [SMBC](http://www.smbc-comics.com/comic/biology-2)
+
 
 
 My excellent committee: [Dan Weinreich](https://vivo.brown.edu/display/dweinrei), [David Rand](https://vivo.brown.edu/display/drand), [Brandon Ogbunu](https://vivo.brown.edu/display/cogbunug), [Peter Belenky](https://vivo.brown.edu/display/pbelenky), and [Lorin Crawford](https://vivo.brown.edu/display/lcrawfo1)
