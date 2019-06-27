@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "David M. Morgan"
-title_separator          : "|"
+title_separator          : "-"
 name                     : &name "David M. Morgan"
 description              : &description "Graduate student in the Weinreich Lab at Brown University"
 url                      : https://davidmmorgan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
