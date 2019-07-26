@@ -8,7 +8,7 @@ date: 2018-09-05
 location: "Worcester, MA"
 ---
 
-Lead an afterschool program, developed by Dr. Kuldell, aimed at providing high school students with the fundamentals of synthetic biology and basic laboratory technique. 
+Lead an afterschool program aimed at providing high school students with the fundamentals of synthetic biology and basic laboratory technique. 
 
 Program Founder
 ------
