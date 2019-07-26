@@ -10,7 +10,7 @@ location: "Worcester, MA"
 
 Lead an afterschool program, developed by Dr. Kuldell, aimed at providing high school students with the fundamentals of synthetic biology and basic laboratory technique. 
 
-Program Coordinator
+Program Founder
 ------
 Dr. Natalie Kuldell
 
