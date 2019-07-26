@@ -99,6 +99,5 @@ Teaching
   
 Awards and Recognition
 ======
-* PLA of the Year, WPI, 2015
 * iGEM Gold Medal, 2015
 * Eagle Scout, Troop 193 Easton MA, 2012
