@@ -8,11 +8,11 @@ date: 2018-09-05
 location: "Worcester, MA"
 ---
 
-
+Lead an afterschool program, developed by Dr. Kuldell, aimed at providing high school students with the fundamentals of synthetic biology and basic laboratory technique. 
 
 Program Coordinator
 ------
-Natalie Kuldell
+Dr. Natalie Kuldell
 
 Position
 ------
@@ -20,3 +20,4 @@ Lead Instructor, Worcester Location
 
 Course Description
 ------
+The BioBuilder Apprenticeship is an afterschool program aimed at preparing students to enter the workforce in the biological sciences. The course focuses on providing students with the knowledge and skills needed for successful entry into the laboratory environment. See the "BioBuilder site"(https://biobuilder.org/) for more information.
