@@ -20,4 +20,4 @@ Lead Instructor, Worcester Location
 
 Course Description
 ------
-The BioBuilder Apprenticeship is an afterschool program aimed at preparing students to enter the workforce in the biological sciences. The course focuses on providing students with the knowledge and skills needed for successful entry into the laboratory environment. See the "BioBuilder site"(https://biobuilder.org/) for more information.
+The BioBuilder Apprenticeship is an afterschool program aimed at preparing students to enter the workforce in the biological sciences. The course focuses on providing students with the knowledge and skills needed for successful entry into the laboratory environment. See the [BioBuilder](https://biobuilder.org/) site for more information.
