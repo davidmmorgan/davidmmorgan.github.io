@@ -10,7 +10,7 @@ location: "Providence, RI"
 
 TA for the course "Ecology and Evolution of Infectious Disease", responsible for grading homework and exams and giving one lecture.
 
-Lead Instrctor
+Lead Instructor
 ------
 Prof. Daniel Weinreich
 
