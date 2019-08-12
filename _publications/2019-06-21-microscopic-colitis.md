@@ -6,7 +6,7 @@ excerpt: 'This paper is from my time at MGH. It focuses on our findings on the g
 date: 2019-06-21
 venue: 'Clinical Gastroenterology and Hepatology'
 paperurl: 'http://academicpages.github.io/files/microscopic_colitis_2019.pdf'
-citation: 'Morgan, DM and Cao Y. (2019). &quot;Microscopic Colitis is Characterized by Intestinal Dysbiosis&quot; <i>Clinical Gastroenterology and Hepatology</i>.'
+citation: 'Morgan, DM and Cao Y et al. (2019). &quot;Microscopic Colitis is Characterized by Intestinal Dysbiosis&quot; <i>Clinical Gastroenterology and Hepatology</i>.'
 ---
 This paper is from my time at MGH. It focuses on our findings on the gut microbiome of patients with Microscopic Colitis.
 
