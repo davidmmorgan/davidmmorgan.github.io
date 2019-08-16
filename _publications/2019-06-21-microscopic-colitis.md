@@ -12,4 +12,4 @@ This paper is from my time at MGH. It focuses on our findings on the gut microbi
 
 [Download paper here](http://davidmmorgan.github.io/files/microscopic_colitis_2019.pdf)
 
-Recommended citation: Morgan DM, Cao Y, Miller K, McGoldrick J, Bellavance D, Chin SM, HalvorsenS, Maxner B, Richter JM, Sassi S, Burke KE, Yarze JC, Ludvigsson JF, Staller K, Chung DC, Khalili H,Microscopic Colitis is Characterized by Intestinal Dysbiosis, Clinical Gastroenterology and Hepatology(2019), doi: [10.1016/j.cgh.2019.06.035.](https://doi.org/10.1016/j.cgh.2019.06.035.) 
+Morgan DM, Cao Y, Miller K, McGoldrick J, Bellavance D, Chin SM, HalvorsenS, Maxner B, Richter JM, Sassi S, Burke KE, Yarze JC, Ludvigsson JF, Staller K, Chung DC, Khalili H,Microscopic Colitis is Characterized by Intestinal Dysbiosis, Clinical Gastroenterology and Hepatology(2019), doi: [10.1016/j.cgh.2019.06.035.](https://doi.org/10.1016/j.cgh.2019.06.035.) 
