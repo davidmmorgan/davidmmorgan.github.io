@@ -3,6 +3,7 @@ permalink: /
 title: "Stipend"
 excerpt: "Transparency in Graduate Student Funding"
 author_profile: true
+
 ---
 
 Transparency in Graduate Student Funding
