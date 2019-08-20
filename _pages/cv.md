@@ -80,7 +80,7 @@ Patents and Presentations
 62/401,406, Filed: September 29, 2016, GT Ref. No.: 110697-012700/PRO
 * “Pairwise Comparison of the Gut Microbiome in Microscopic Colitis” Digestive Disease Week National
 Conference, Washington DC, 2018
-* “Antifreeze Proteins: Busing Biofilms and Crushing Ice Crystals,” iGEM Giant Jamboree, Boston, MA,
+* “Antifreeze Proteins: Busting Biofilms and Crushing Ice Crystals,” iGEM Giant Jamboree, Boston, MA,
 September 2015
 * “Role of the 5’UTR in Expression of groES in Mycobacterium Smegmatis,” Next-In-Bio Undergraduate Research
 Symposium, WPI, September 2016.
