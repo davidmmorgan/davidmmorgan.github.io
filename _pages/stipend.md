@@ -1,11 +1,15 @@
----
-layout: archive
-permalink: /stipend/
-title: "Stipend"
-excerpt: "Transparency in Graduate Student Funding"
-author_profile: true
 
 ---
+layout: archive
+title: "Stipend"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /stipend
+---
+
+{% include base_path %}
+
 
 Transparency in Graduate Student Funding
 -----
