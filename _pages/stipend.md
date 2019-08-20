@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Stipend"
-permalink: /cv/
+permalink: /stipend/
 author_profile: true
 redirect_from:
   - /stipend
