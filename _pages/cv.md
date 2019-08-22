@@ -35,20 +35,20 @@ nature of the study, and drawing blood samples for some studies.
 acid extraction.
   * Performing bioinformatic analysis of metagenome shotgun sequencing to analyze gut microbiome
 composition.
-* Student Volunteer, Shell Lab, WPI, Worcester, MA, January 2015 - January 2017
+* Undergraduate Researcher, Shell Lab, WPI, Worcester, MA, January 2015 - January 2017
   * Conducted independent research under the direction of the principle investigator.
   * Investigated the role of the 5’UTR in expression of groES in M. smegmotis, an M. tuberculosis analog.
   * Utilized recombinant DNA technology, fluorescent reporters, and quantitative PCR to create
 mycobacterial strains and measure differences between them.
   * Analyzed data from fluorescence microscopy images using ImageJ and from flow cytometry using
 FlowJo.
-* Student Volunteer, Gegear Lab, WPI, Worcester, MA, August - December 2016
+* Undergraduate Researcher, Gegear Lab, WPI, Worcester, MA, August - December 2016
   * Investigated the potential for a transcriptomic profile in B. impatiens of the response to neonicitenoid
 pesticides.
   * Gathered wild specimens at multiple field sites for transcriptomic profile testing.
   * Correlated field data with experimental data gathered through exposure of specimens to known
 quantities and types of pesticides.
-* Process Development-Analytics Intern, Bristol-Myers Squibb, Devens, MA, une - August 2016
+* Process Development-Analytics Intern, Bristol-Myers Squibb, Devens, MA, June - August 2016
   * Conducted research on Size-Exclusion Chromatography (SEC) Ultra-Performance Liquid
 Chromatography (UPLC) columns to evaluate their potential for analysis of upstream drug production.
   * Compared columns across multiple manufacturers using a wide array of metrics.
