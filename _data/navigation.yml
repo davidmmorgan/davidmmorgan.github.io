@@ -11,9 +11,7 @@ main:
     
 #  - title: "Portfolio"
 #    url: /portfolio/
-        
-#  - title: "Blog Posts"
-#    url: /year-archive/
+
     
   - title: "CV"
     url: /cv/
@@ -23,3 +21,6 @@ main:
 
   - title: "Stipend"
     url: /stipend/
+        
+  - title: "Ecology & Evolution & Dungeons & Dragons"
+    url: /year-archive/
