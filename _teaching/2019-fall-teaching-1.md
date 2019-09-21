@@ -8,7 +8,7 @@ date: 2019-09-04
 location: "Providence, RI"
 ---
 
-TA for the course "Ecology and Evolution of Infectious Disease" for the second time.
+TA for the course "Ecology and Evolution of Infectious Disease" for the second time. Responsible for grading homework and exams, and for giving one lecture.
 
 Lead Instructor
 ------
