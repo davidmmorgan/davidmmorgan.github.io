@@ -32,3 +32,5 @@ I attended Worcester Polytechnic Institute for my B.S., where I had the pleasure
 
 I was a part of [WPI's 2015 iGEM team](http://2015.igem.org/Team:WPI-Worcester) where we investigated the biofilm-affecting properties of antifreeze proteins.
 
+
+![scientist](/images/scientist_dave10x.gif)
