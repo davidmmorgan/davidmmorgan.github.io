@@ -34,7 +34,11 @@ Question Number 1: Please indicate your evaluation of the teaching assistant's o
 
 Question 2: Please elaborate on your responses above, or on anything else you wish to discuss about the TA's teaching.
 > "David's lecture could have flowed better and made more sense."
+
 > "Most of David's comments on homework assignments were clear, but occasionally he could have explained his reasoning better."
+
 > "Very reasonable when trying to argue points back"
+
 > "Really helpful."
+
 > "N/a"
